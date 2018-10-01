@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplecation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hello">안녕하세요. 한국IT교육원 입니다.</string>
+    <string name="myname">박병주 입니다.</string>
+    <string name="change">갑을 바꾸꾸꾸</string>
+    <string name="btn1">버튼1</string>
+    <string name="title_activity_print_star">PrintStarActivity</string>
+</resources>
