@@ -12,16 +12,18 @@
         <activity
             android:name=".zzzzActivity"
             android:label="@string/app_name" />
-        <activity android:name=".ButtonAlignActivity"></activity>
-        <activity android:name=".PrintStarActivity">
-        </activity>
-        <activity android:name=".ButtonAlign2Activity">
+        <activity android:name=".ButtonAlignActivity" />
+        <activity android:name=".PrintStarActivity" />
+        <activity android:name=".ButtonAlign2Activity" />
+        <activity android:name=".HomePageActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".CalCActivity" />
+        <activity android:name=".MP3PlayerActivity"></activity>
     </application>
 
 </manifest>
